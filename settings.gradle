@@ -1,0 +1,2 @@
+include ':app', ':GroupInsurance'
+rootProject.name='My Application'
